@@ -1,12 +1,95 @@
 {
-  "posts": [
+  "welcomePage": {
+    "two": [{
+      "rings": "https://sun9-69.userapi.com/impg/Tex7NEIkWwQvA-05oJhAdUQ-qi8umn4PM-pmKw/pul61De3p2c.jpg?size=285x320&quality=95&sign=d2335ec29d1d428f049a07f2737592c7&type=album"
+    },
     {
-      "id": 1,
-      "title": "hello"
+      "earrings": "https://sun9-5.userapi.com/impg/82yieP4ctVhVhR0WAygi_lQHACzrDkVCkKE8bw/UM13sgEJ1pc.jpg?size=285x320&quality=95&sign=39b5cddc02e5f00bdb08edee433c1c0d&type=album"
+    },
+    {
+      "chains": "https://sun9-29.userapi.com/impg/YRP3GQfnwNzdueRyGl2iXkGmeNlEK9lT1AZ64Q/5c27MI563tg.jpg?size=285x320&quality=95&sign=585f5999bf4c50cb003f743728100d4d&type=album"
+    },
+    {
+      "necklace": "https://sun9-61.userapi.com/impg/VFcqzm9nIFmWDhZWDokh6IjqCHKcZ24Y3eRHTA/0fOI9A36mfg.jpg?size=285x320&quality=95&sign=b331f62f9ec47dcac50781196b53f168&type=album"
+    },
+    {
+      "pendants": "https://sun9-62.userapi.com/impg/8RZPj0FiDLgykDXfC7LWIIxO_SY1fCLGkb3K5Q/1Je-u5qapdI.jpg?size=285x320&quality=95&sign=3d7278032aa2ea4373579662d9aca585&type=album"
+    },
+    {
+      "brooches": "https://sun9-21.userapi.com/impg/UlNL8p7Q__r-qD-WdlXhn5X7UpKahSTTky1W-Q/-RussPbUQ44.jpg?size=285x320&quality=95&sign=398c44fd70bc4c435f5618d3d87db1cf&type=album"
+    },
+    {
+      "bracelets": "https://sun9-78.userapi.com/impg/S9zHQKJMacHUDPJ2AFM58gEdKh8iEox_avcZsA/T5qT1BwEl0A.jpg?size=285x320&quality=95&sign=b55f2ef3cab79d3784eb3d511ae85417&type=album"
     }
   ],
-  "profile": {
-    "name": "Denis",
-    "age": 31
+    "four": [{
+      "link": "https://sun9-55.userapi.com/impg/EoafY_-OF4uBjvVwCNL3lPHy3PQ17EUp-MG9Dw/MPWKU41btac.jpg?size=387x400&quality=95&sign=695c6fe253519e2109f66875d704b788&type=album",
+      "description": "Gold earrings 'Moonlight'",
+      "price": "€43,53 EUR"
+    },
+    {
+      "link": "https://sun54-2.userapi.com/impg/MJ3q3kOi_DxEUqPSyaJQ2JN8Eggc3J5Vk3UBiQ/IoxeNNRGnUw.jpg?size=387x400&quality=95&sign=8b87a4736ca3e398cb4ce88642d578e2&type=album",
+      "description": "Golden necklace 'Love symbol'",
+      "price": "€56,75 EUR"
+    },
+    {
+      "link": "https://sun9-80.userapi.com/impg/DUBOXtq7ItUig5yPCySO5ftrmYXtUKBsbbR_UQ/J2sXsi1QWSw.jpg?size=387x400&quality=95&sign=695b5f11c7b49cf49bf945c46d6b99aa&type=album",
+      "description": "Golden ring 'Ray of light'",
+      "price": "€29,34 EUR"
+    },
+    {
+      "link": "https://sun9-46.userapi.com/impg/yVtlKK3ejlGWxNVxZpL-upEc0mNQr23THbyIHQ/2z1qOp5tntg.jpg?size=387x400&quality=95&sign=57b1a0b3c19a113e627cc7639030b0e7&type=album",
+      "description": "Gold earrings 'Pearl Bay'",
+      "price": "€65,15 EUR"
+    },
+    {
+      "link": "https://sun9-70.userapi.com/impg/r1vYKQgK7A4lIKDTkBd8_7hN7K3eRO_dRFO6lA/4K1ztYP3StY.jpg?size=387x400&quality=95&sign=feb50565d71d0310817ffe6c134fdeb4&type=album",
+      "description": "Set of rings 'Day and night'",
+      "price": "€50,25 EUR"
+    },
+    {
+      "link": "https://sun9-12.userapi.com/impg/Q0ayouEZqqlrH-y5MSWMdpGMSqt_t5gUVa86Fw/ZGLlj9F0zoQ.jpg?size=387x400&quality=95&sign=540408f779edfb4d1ff85f7f368d8bde&type=album",
+      "description": "Gold Chain 'Sophistication'",
+      "price": "€30,11 EUR"
+    }
+  ],
+  "six": [{
+    "link": "https://sun9-79.userapi.com/impg/a4PW_iLBhZwEAIb9kEzKfz-1CIqsmQjNCsq-sQ/7Ze8bOsZUJw.jpg?size=49x48&quality=95&sign=ba9271085800264a4312d8acc64be6a4&type=album",
+    "description": "Accept all major credit cards",
+    "title": "Secure online payment"
+  },
+  {
+    "link": "https://sun9-6.userapi.com/impg/kugkWqHrFR7A-6HbJSfbo8_XihlfYJosRkyTRg/u_xHrdejUa8.jpg?size=48x48&quality=95&sign=af07f7034e880ac5f3041ae6063b78dd&type=album",
+    "description": "Friendly 24/7 customer support",
+    "title": "24/7 Customer support"
+  },
+  {
+    "link": "https://sun9-52.userapi.com/impg/zLk4emPJV80OewXkdIrmrggLxYWdSH2SmFqsjw/PRiSuqQHDzk.jpg?size=49x48&quality=95&sign=74f23af081db3b488a6f39f3af744fba&type=album",
+    "description": "We return money within 30 days",
+    "title": "Money back guarantee"
+  },
+  {
+    "link": "https://sun9-28.userapi.com/impg/AxEAdk1DmcwEcGa9c0GC9RYVjJVatV5V_BG_Bg/siRwoz1LUus.jpg?size=42x48&quality=95&sign=3204322c39e10160fc60d2d57dadd3f6&type=album",
+    "description": "Get free shipping over 50 EUR",
+    "title": "Fast worldwide shipping"
   }
+],
+"eight": [{
+  "link": "https://sun9-77.userapi.com/impg/MYOwGGf_S4dHEH6368yW-PNrmBy0qqRYbITV3g/RAeV64DrzF0.jpg?size=590x306&quality=95&sign=3052ab355937acec24a7707a57f93f69&type=album",
+  "description": "In the realm of timeless elegance, caring for your jewelry is an art that ensures your precious pieces remain radiant for generations. While jewelry adds a touch of glamour to our lives, a little care can go a long way in preserving their beauty.",
+  "title": "Jewelry Care Tips",
+  "category": "Lifestyle",
+  "date": "September 20, 2023",
+  "comments": "0"
+},
+{
+  "link": "https://sun9-51.userapi.com/impg/_-70PnKmZiM3F-afDp2C2iGXLEn-sYRPalcStQ/I11wlps-I7g.jpg?size=590x306&quality=95&sign=911b2960755bf71073ba0feeaf72dec6&type=album",
+  "description": "Jewelry possesses a unique ability to elevate any special occasion, transforming an outfit into a statement and a moment into a memory. Choosing the right pieces for those significant events requires a delicate balance of style, sentiment, and sophistication.",
+  "title": "Selecting Jewelry for Special Events",
+  "category": "Fashion",
+  "date": "August 11, 2023",
+  "comments": "2"
+}
+]
+}
 }
