@@ -1,27 +1,21 @@
 {
   "welcomePage": {
-    "two": [{
+    "two": {
       "rings": "https://sun9-60.userapi.com/impg/digxtgTiM4Ka3OA5L4Q71oBQ36tcjNl_p84XRw/d8O4vSwACY8.jpg?size=285x320&quality=95&sign=6a8b6a5c1ba55cea4f7d693e0d20f5a6&type=album"
-    },
-    {
+    ,
       "earrings": "https://sun9-32.userapi.com/impg/g_m3q895b4zpvXstMXYUrLf7bmlegE-TmLfCfw/CqqPKagxH0I.jpg?size=285x320&quality=95&sign=c0d50a76994df3fa11861699d9b23af2&type=album"
-    },
-    {
+    ,
       "chains": "https://sun9-4.userapi.com/impg/FhKLUtKTgviRgLtDjtGm1U2RbapPs9Po8l1W0Q/YVKKk-v9j1I.jpg?size=285x320&quality=95&sign=3378d1c8f6d1a98323e130ece4940bf9&type=album"
-    },
-    {
+    ,
       "necklace": "https://sun9-72.userapi.com/impg/_TYU8PZBYkj8fKsgV9Zh619BnYVtnPDL_ArfkA/ESjrsByQ_ls.jpg?size=285x320&quality=95&sign=dd33108d7a008f89ec62cda21a0808c7&type=album"
-    },
-    {
+    ,
       "pendants": "https://sun9-55.userapi.com/impg/FNCrrruZfFQYE5JzVHYjLzrjcYNFkKdulZDW3Q/d5iVvGIpCsQ.jpg?size=285x320&quality=95&sign=3a9a781f577e66b7cc908b891fbc0b8c&type=album"
-    },
-    {
+    ,
       "brooches": "https://sun9-20.userapi.com/impg/ePiEEKC8AZRrEpXS0RKloKY34AxDkzfYhQyIqg/uJ-GkFwA9Yg.jpg?size=285x320&quality=95&sign=b3b54aea0d941743cc68d313cb6f6cdf&type=album"
-    },
-    {
+    ,
       "bracelets": "https://sun9-28.userapi.com/impg/JlvvB5PgesWUsFlrUXBRNo2PmSkMv9UgSA1RTQ/wOT5o_SlwQQ.jpg?size=285x320&quality=95&sign=40d63d0fad24dccd508d0c1fe72dd98c&type=album"
     }
-  ],
+  ,
     "four": [{
       "link": "https://sun9-55.userapi.com/impg/EoafY_-OF4uBjvVwCNL3lPHy3PQ17EUp-MG9Dw/MPWKU41btac.jpg?size=387x400&quality=95&sign=695c6fe253519e2109f66875d704b788&type=album",
       "description": "Gold earrings 'Moonlight'",
@@ -90,6 +84,15 @@
   "date": "August 11, 2023",
   "comments": "2"
 }
-]
+],
+"nine": {
+  "0": "https://sun9-2.userapi.com/impf/7SY6DJYyg3V2XqMlGXFX5ndTcvOfsZdHuFFciQ/HxRCcaBRF3E.jpg?size=285x285&quality=95&sign=6b06f87ef8cedc9f17f3252528c944ee&type=album"
+,
+  "1": "https://sun9-61.userapi.com/impf/Os2V5gqnJu-fyCqTZXpmyKzOU2XMCr_8ZXJd0g/X-sszhdX20U.jpg?size=285x285&quality=95&sign=ba6f75234e3a765ea6d71f468992b0bd&type=album"
+,
+  "2": "https://sun9-76.userapi.com/impf/zE8r2OvYCC4OMekUnrmSLG3BUbe8zdmfZr5rVg/w0c1ZjAqPTE.jpg?size=285x285&quality=95&sign=f637e4f73f699d21d2107ba83d3cf1cf&type=album"
+,
+  "3": "https://sun9-1.userapi.com/impf/NHBdPE1kIz11hEkKvLWBjp7ed6s5hNFSWftqdw/oWJJ1N-vSfE.jpg?size=285x285&quality=95&sign=2711da46bc81fb829b6c75ac7f302a20&type=album"
+}
 }
 }
